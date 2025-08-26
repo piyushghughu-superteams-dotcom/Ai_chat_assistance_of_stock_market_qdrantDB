@@ -1,0 +1,7 @@
+backend/__pycache__
+backend/qdrant_stuff
+frontend/node_modules
+venv/
+.env
+notes.txt
+frontpart/node_modules
