@@ -171,7 +171,13 @@ User Query → FastAPI (/query) → parse_query() [Groq LLM]
 </ul>
 
 <hr>
+<h3>
+  Flow Diagram
 
+</h3>
+<p>
+    https://excalidraw.com/#json=MqBhc-XGngINm9xrmocuV,RMmt3bqZdDdHCLhluRp9Tg
+</p>
 
 </body>
 </html>
