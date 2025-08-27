@@ -2,37 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>💰 AI Wealth Management Advisor</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-      line-height: 1.6;
-      background: #f9f9f9;
-      color: #222;
-    }
-    h1, h2, h3 {
-      color: #0d6efd;
-    }
-    pre, code {
-      background: #eee;
-      padding: 0.5rem;
-      border-radius: 6px;
-      display: block;
-      overflow-x: auto;
-    }
-    .box {
-      background: #fff;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      padding: 1rem;
-      margin: 1rem 0;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    }
-    ul {
-      margin-left: 1.2rem;
-    }
-  </style>
+  
 </head>
 <body>
 
