@@ -172,7 +172,7 @@ User Query → FastAPI (/query) → parse_query() [Groq LLM]
 
 <hr>
 <h3>
-  Flow Diagram
+  Workflow Diagram
 
 </h3>
 <p>
