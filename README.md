@@ -172,8 +172,6 @@ User Query → FastAPI (/query) → parse_query() [Groq LLM]
 
 <hr>
 
-<h2>👨‍💻 Author</h2>
-<p>Built with ❤️ by <strong>Piyush Ghughu</strong></p>
 
 </body>
 </html>
