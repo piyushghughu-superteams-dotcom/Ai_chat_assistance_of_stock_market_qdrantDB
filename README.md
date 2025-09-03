@@ -179,11 +179,9 @@ User Query → FastAPI (/query) → parse_query() [Groq LLM]
     https://excalidraw.com/#json=MqBhc-XGngINm9xrmocuV,RMmt3bqZdDdHCLhluRp9Tg
 </p>
 
-<div>
 <p>
-**This blog was written in collaboration with [Superteams.ai](https://www.superteams.ai)**
-
+- **This blog was written in collaboration with [Superteams.ai](https://www.superteams.ai)**
 </p>
-</div>
+
 </body>
 </html>
